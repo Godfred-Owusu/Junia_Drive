@@ -1,0 +1,13 @@
+# Exclude virtual environment
+.venv/
+
+# Exclude local static and media files
+static/
+media/
+
+# Exclude logs
+*.log
+
+# Exclude cache and temporary files
+__pycache__/
+*.pyc
